@@ -1,0 +1,28 @@
+body
+{
+	text-align: center;
+	font-family: 'Raleway', sans-serif;
+	background: linear-gradient(rgb(0, 0, 0),rgb(110, 70, 163),rgb(160, 116, 218));
+	color: white;
+}
+span
+{
+	font-size: 18px;
+	color: rgb(132, 0, 255);
+	font-family: 'Raleway', sans-serif;
+}
+canvas
+{
+	background: rgb(167, 113, 253);
+	border-radius: 20px;
+}
+h3{
+	font-size: 40px;
+}
+.btn{
+	background: rgb(58, 1, 150);
+	width: 10%;
+	height: 7%;
+	font-size: 25px;
+	border: rgb(130, 14, 238);
+}
